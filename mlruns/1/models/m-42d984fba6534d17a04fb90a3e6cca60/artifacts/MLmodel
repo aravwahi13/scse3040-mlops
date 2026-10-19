@@ -1,4 +1,4 @@
-artifact_path: /Users/aravxw/Desktop/MLOps/mlruns/1/models/m-0f9a571ba61f499e829a0ca2a23218ad/artifacts
+artifact_path: /Users/aravxw/Desktop/MLOps/mlruns/1/models/m-42d984fba6534d17a04fb90a3e6cca60/artifacts
 flavors:
   python_function:
     env:
@@ -16,9 +16,9 @@ flavors:
     skops_trusted_types:
     - sklearn.tree._tree.Tree
 mlflow_version: 3.16.1
-model_id: m-0f9a571ba61f499e829a0ca2a23218ad
+model_id: m-42d984fba6534d17a04fb90a3e6cca60
 model_size_bytes: 886243
-model_uuid: m-0f9a571ba61f499e829a0ca2a23218ad
+model_uuid: m-42d984fba6534d17a04fb90a3e6cca60
 prompts: null
-run_id: 9774fb2a3eba41c3a46dd6e2478061cf
-utc_time_created: '2026-10-05 03:45:28.242516'
+run_id: 8287266c6099477399cf4b93228592f1
+utc_time_created: '2026-10-06 17:52:06.373130'
